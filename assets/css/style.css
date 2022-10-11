@@ -1,0 +1,14 @@
+/* Header Formating */
+#cu_hdr_container {
+    display:flex;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    position:fixed;
+    top: 0;
+}
+
+# cu_hdr_nav_list {
+    display: flex;
+    list-style-type: none;
+}
